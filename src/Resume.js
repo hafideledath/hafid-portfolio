@@ -75,7 +75,7 @@ function Resume() {
         <p>Created a full-stack website, using Flask, demonstrating the capabilities of the Dubai Metro</p>
 
         <h3>Created a full-stack stock-market trading simulator</h3>
-        <p>Created a full-stack stock-market trading simulator using Flask, as part of Harvard's CS50</p>
+        <p>Created a full-stack stock-market trading simulator using Flask, as part of Harvard's CS50x</p>
 
         <h3>Created ASCII UNO</h3>
         <p>Created a terminal game in Python, simulating the card game UNO, with vibrant ASCII art representing cards</p>
@@ -87,7 +87,7 @@ function Resume() {
         <p>Created a multi-purpose Discord bot using Node.js, which allows users to create their own commands, using a syntax I developed. It has a variety of functions, such as dynamic RESTful API data retrieval</p>
 
         <h3>Awarded excellent achievement for MYP Digital Design in years 9 and 10</h3>
-        <p>Awarded excellent achievement for DD, for exceeding expections in class</p>
+        <p>Awarded excellent achievement for DD, for exceeding expectations in class</p>
 
         <h3>Created an AI-powered celebrity simulator</h3>
         <p>Created an AI-powered celebrity and historical figure simulator using OpenAI's GPT-3.5 turbo API</p>
