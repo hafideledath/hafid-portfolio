@@ -42,7 +42,7 @@ function Resume() {
         <p>Completed Harvard's online project-based Python course extension of CS50, via EDx; developing Python skills</p>
 
         <h3>Took Brown Pre-College's course on Set Theory and Boolean Algebra</h3>
-        <p>Completed Brown Pre-College's 2 week course on Set Theory and Boolean Algebra, live and on-campus. Gained highly valuable skills applicable in machine learning</p>
+        <p>Completed Brown Pre-College's 2-week course on Set Theory and Boolean Algebra, live and on-campus. Gained highly valuable skills applicable in machine learning</p>
 
         <h3>Took Daniel Walter Scott’s Responsive Web Design course</h3>
         <p>Completed Daniel Walter Scott's project-based course on Responsive web-design, via Udemy. This was the catalyst for my passion for web-design</p>
