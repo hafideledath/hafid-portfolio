@@ -14,9 +14,14 @@ import './App.css';
 
 const testimonials = [
   {
+    name: "Ruhaan Malhotra",
+    description: "Capture@DIA president, DIAPAIR co-founder, Ecoclub head of events",
+    content: "Throughout my working relationship with Hafid, I have been consistently impressed by his attention to detail, sheer work ethic, and distinguished passion; all of which he brings to the table regardless of the magnitude of the task. As such, Hafid has demonstrated excellent time management and digital design tropes, cultivating his knowledge through applications, whilst educating the rest of the DIAPAIR team through insightful anecdotes. I truly recommend Hafid as a staple of any initiative, and do wish him the best in his future endeavours."
+  },
+  {
     name: "Atharva Khule",
-    description: "Co-founder, DIAPAIR",
-    content: "Hafid is a great team member, demonstrating a great skillset. He has played an essential role to the development of our organization, and is a key member of the team. I think very highly of Hafid and wish him the best in his years ahead."
+    description: "DIAPAIR co-founder",
+    content: "Hafid is a great team member, demonstrating a great skillset. Amongst which, his fullstack development skills are to be noted. He has played an essential role to the development of our ogranization, and is a key member of the team. He is able to accurately comprehend requests from us as non-developers, which, from experience is probably the hardest part. Understanding is something that is quintessential to a developer and hafid embodies this nature. As a Developer, Hafid also requires Critical Thinking skills, and time-management, which he has demonstrated in his time with us. He is able to develop a website that we thought would be quite challenging. He utilizes his skillset in an efficient manner allowing for highly intricate and systematically organized websites, which look highly professional. Furthermore, Hafid is able to develop not only the frontend, but also the backend of a complex website, which is very challenging for one person. I think very highly of Hafid and wish him the best in his years ahead."
   },
   {
     name: "Fadil Eledath",

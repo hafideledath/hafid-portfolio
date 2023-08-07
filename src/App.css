@@ -143,9 +143,13 @@ main h2 {
 
 .testimonial {
     position: relative;
-    height: 350px;
     width: 50rem;
     margin: 0 auto 100px;
+}
+
+.testimonial p {
+    height: 300px;
+    overflow-y: auto;
 }
 
 .testimonial h3, .testimonial p {
@@ -216,7 +220,6 @@ footer {
 
     .testimonial {
         width: 700px;
-        height: 400px;
     }
 }
 
@@ -241,7 +244,6 @@ footer {
 
     .testimonial {
         width: 670px;
-        height: 360px;
     }
     
     .testimonial h2 {
@@ -277,7 +279,6 @@ footer {
 
     .testimonial {
         width: 520px;
-        height: 330px;
     }
 
     .testimonial h2 {
@@ -321,7 +322,6 @@ footer {
 
     .testimonial {
         width: 350px;
-        height: 430px;
     }
 }
 
@@ -357,7 +357,6 @@ footer {
 
     .testimonial {
         width: 320px;
-        height: 320px;
     }
 
     .testimonial .arrow {
