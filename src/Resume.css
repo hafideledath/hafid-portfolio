@@ -1,0 +1,35 @@
+.Resume {
+    max-width: 1000px;
+    margin: 0 auto 100px;
+    padding: 0 20px;
+}
+
+.Resume * {
+    opacity: 0;
+    transform: translate(-20px);
+    transition-duration: .4s;
+    transition-delay: .2s;
+}
+
+.Resume .show, .Resume .show * {
+    opacity: 1;
+    transform: none;
+}
+
+.Resume h2 {
+    font-size: 4rem;
+    width: 100%;
+    margin: 60px 0 20px;
+    font-family: 'Oswald', sans-serif;
+    color: #efefa6;
+}
+
+.Resume h3 {
+    margin: 0 0 0 5px;
+    font-size: 1.5rem;
+}
+
+.Resume p {
+    margin: 0 0 20px 20px;
+    color: #ffffffb3;
+}
