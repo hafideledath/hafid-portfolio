@@ -213,7 +213,6 @@ footer {
 @media (max-width: 1080px) {
     h1 {
         font-size: 25rem;
-        margin-top: 0;
     }
 
     #carousel {
