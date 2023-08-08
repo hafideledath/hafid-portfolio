@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
-
-import Resume from './Resume';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 import Image1 from './assets/scrollPhotos/hackathonSolo.webp';
 import Image2 from './assets/scrollPhotos/buildingRocket.webp';
@@ -9,6 +8,8 @@ import Image4 from './assets/scrollPhotos/hackathonGroup.webp';
 import Image5 from './assets/scrollPhotos/diatechAlex.webp';
 import Image6 from './assets/scrollPhotos/nearAstronaut.webp';
 import Image7 from './assets/scrollPhotos/buildingLego.webp';
+
+import Resume from './Resume';
 
 import './App.css';
 
@@ -84,7 +85,7 @@ function App() {
                 <span class="material-symbols-outlined">close</span>
               </div>
             </p>
-            <img src={Image1} alt="Placeholder image" />
+            <img src={Image1} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 2}}>
             <p className='caption'>cool_3d_print.jpg
@@ -94,7 +95,7 @@ function App() {
                 <span class="material-symbols-outlined">close</span>
               </div>
             </p>
-            <img src={Image2} alt="Placeholder image" />
+            <img src={Image2} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 3}}>
             <p className='caption'>busybusy.jpg
@@ -104,7 +105,7 @@ function App() {
                 <span class="material-symbols-outlined">close</span>
               </div>
             </p>
-            <img src={Image3} alt="Placeholder image" />
+            <img src={Image3} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 4}}>
             <p className='caption'>hackathon_group.jpg
@@ -114,7 +115,7 @@ function App() {
                 <span class="material-symbols-outlined">close</span>
               </div>
             </p>
-            <img src={Image4} alt="Placeholder image" />
+            <img src={Image4} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 5}}>
             <p className='caption'>won_diatechbackend_YAY.jpg
@@ -124,7 +125,7 @@ function App() {
                 <span class="material-symbols-outlined">close</span>
               </div>
             </p>
-            <img src={Image5} alt="Placeholder image" />
+            <img src={Image5} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 6}}>
             <p className='caption'>cool_astronaut.png
@@ -134,7 +135,7 @@ function App() {
                 <span class="material-symbols-outlined">close</span>
               </div>
             </p>
-            <img src={Image6} alt="Placeholder image" />
+            <img src={Image6} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 7}}>
             <p className='caption'>littleProgrammer.jpg
@@ -144,7 +145,7 @@ function App() {
                 <span class="material-symbols-outlined">close</span>
               </div>
             </p>
-            <img src={Image7} alt="Placeholder image" />
+            <img src={Image7} alt="Carousel image" />
           </div>
         </div>
 
