@@ -44,7 +44,7 @@ h1 {
     to {background-position-x: -200%;}
 }
 
-.gradient {
+.gradient, .arrow {
     font-weight: bold;
     background: linear-gradient(
         to right,
@@ -162,15 +162,11 @@ main h2 {
 }
 
 .testimonial .arrow {
-    font-size: 3rem;
+    font-size: 6rem;
     opacity: 0.7;
     transform: none;
     transition-duration: .2s;
     user-select: none;
-}
-
-.testimonial .arrow.left {
-    margin-left: -20px;
 }
 
 .testimonial .arrow:hover {
