@@ -1,8 +1,7 @@
 import { useEffect, useState } from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 
-import Image1 from './assets/scrollPhotos/hackathonSolo.webp';
-import Image2 from './assets/scrollPhotos/buildingRocket.webp';
+import Image1 from './assets/scrollPhotos/buildingRocket.webp';
+import Image2 from './assets/scrollPhotos/curtinGroupPhoto.webp';
 import Image3 from './assets/scrollPhotos/programming.webp';
 import Image4 from './assets/scrollPhotos/hackathonGroup.webp';
 import Image5 from './assets/scrollPhotos/diatechAlex.webp';
@@ -78,7 +77,7 @@ function App() {
       <main>
         <div id="carousel" style={{"--scroll-position": scrollTop}}>
           <div className="carousel-item" style={{"--index": 1}}>
-            <p className='caption'>nervousbutexcited.jpg
+            <p className='caption'>cool_3d_print.jpg
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
                 <span class="material-symbols-outlined">check_box_outline_blank</span>
@@ -88,7 +87,7 @@ function App() {
             <img src={Image1} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 2}}>
-            <p className='caption'>cool_3d_print.jpg
+            <p className='caption'>lets_do_this.jpg
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
                 <span class="material-symbols-outlined">check_box_outline_blank</span>
