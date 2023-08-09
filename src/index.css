@@ -1,4 +1,5 @@
 body {
+  overscroll-behavior: none;
   margin: 0;
   color: #fff;
   font-family: 'Karla', sans-serif;

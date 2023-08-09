@@ -39,8 +39,6 @@ function App() {
     };
     window.addEventListener("scroll", onScroll);
 
-    console.log(scrollTop);
-
     return () => window.removeEventListener("scroll", onScroll);
   }, [scrollTop]);
 
@@ -68,7 +66,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="App" style={{"--scroll-position": scrollTop}}>
       <div className="hero">
         <h1>HAFID</h1>
         <h2 id='subheader'>Full-Stack Web-Developer and Programmer</h2>
@@ -77,7 +75,7 @@ function App() {
       </div>
 
       <main>
-        <div id="carousel" style={{"--scroll-position": scrollTop}}>
+        <div id="carousel">
           <div className="carousel-item" style={{"--index": 1}}>
             <div className='caption'>
               <p>cool_3d_print.jpg</p>
