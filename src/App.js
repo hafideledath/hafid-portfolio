@@ -39,6 +39,8 @@ function App() {
     };
     window.addEventListener("scroll", onScroll);
 
+    console.log(scrollTop);
+
     return () => window.removeEventListener("scroll", onScroll);
   }, [scrollTop]);
 
@@ -77,73 +79,80 @@ function App() {
       <main>
         <div id="carousel" style={{"--scroll-position": scrollTop}}>
           <div className="carousel-item" style={{"--index": 1}}>
-            <p className='caption'>cool_3d_print.jpg
+            <div className='caption'>
+              <p>cool_3d_print.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
-                <span class="material-symbols-outlined">check_box_outline_blank</span>
-                <span class="material-symbols-outlined">close</span>
+                <span className="material-symbols-outlined">check_box_outline_blank</span>
+                <span className="material-symbols-outlined">close</span>
               </div>
-            </p>
+            </div>
             <img src={Image1} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 2}}>
-            <p className='caption'>lets_do_this.jpg
+            <div className='caption'>
+              <p>lets_do_this.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
-                <span class="material-symbols-outlined">check_box_outline_blank</span>
-                <span class="material-symbols-outlined">close</span>
+                <span className="material-symbols-outlined">check_box_outline_blank</span>
+                <span className="material-symbols-outlined">close</span>
               </div>
-            </p>
+            </div>
             <img src={Image2} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 3}}>
-            <p className='caption'>busybusy.jpg
+            <div className='caption'>
+              <p>busybusy.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
-                <span class="material-symbols-outlined">check_box_outline_blank</span>
-                <span class="material-symbols-outlined">close</span>
+                <span className="material-symbols-outlined">check_box_outline_blank</span>
+                <span className="material-symbols-outlined">close</span>
               </div>
-            </p>
+            </div>
             <img src={Image3} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 4}}>
-            <p className='caption'>hackathon_group.jpg
+            <div className='caption'>
+              <p>hackathon_group.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
-                <span class="material-symbols-outlined">check_box_outline_blank</span>
-                <span class="material-symbols-outlined">close</span>
+                <span className="material-symbols-outlined">check_box_outline_blank</span>
+                <span className="material-symbols-outlined">close</span>
               </div>
-            </p>
+            </div>
             <img src={Image4} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 5}}>
-            <p className='caption'>won_diatechbackend_YAY.jpg
+            <div className='caption'>
+              <p>won_diatechbackend_YAY.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
-                <span class="material-symbols-outlined">check_box_outline_blank</span>
-                <span class="material-symbols-outlined">close</span>
+                <span className="material-symbols-outlined">check_box_outline_blank</span>
+                <span className="material-symbols-outlined">close</span>
               </div>
-            </p>
+            </div>
             <img src={Image5} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 6}}>
-            <p className='caption'>cool_astronaut.png
+            <div className='caption'>
+              <p>cool_astronaut.png</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
-                <span class="material-symbols-outlined">check_box_outline_blank</span>
-                <span class="material-symbols-outlined">close</span>
+                <span className="material-symbols-outlined">check_box_outline_blank</span>
+                <span className="material-symbols-outlined">close</span>
               </div>
-            </p>
+            </div>
             <img src={Image6} alt="Carousel image" />
           </div>
           <div className="carousel-item" style={{"--index": 7}}>
-            <p className='caption'>littleProgrammer.jpg
+            <div className='caption'>
+              <p>littleProgrammer.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
-                <span class="material-symbols-outlined">check_box_outline_blank</span>
-                <span class="material-symbols-outlined">close</span>
+                <span className="material-symbols-outlined">check_box_outline_blank</span>
+                <span className="material-symbols-outlined">close</span>
               </div>
-            </p>
+            </div>
             <img src={Image7} alt="Carousel image" />
           </div>
         </div>
@@ -161,7 +170,7 @@ function App() {
         <Resume />
       </main>
 
-      <footer><span class="material-symbols-outlined">copyright</span> 2023 Hafid Eledath | contact: dia210210@diaestudents.com</footer>
+      <footer><span className="material-symbols-outlined">copyright</span> 2023 Hafid Eledath | contact: dia210210@diaestudents.com</footer>
     </div>
   );
 }
