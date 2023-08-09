@@ -67,7 +67,7 @@ function App() {
 
   return (
     <div className="App" style={{"--scroll-position": scrollTop}}>
-      <div className="hero">
+      <div id="hero">
         <h1>HAFID</h1>
         <h2 id='subheader'>Full-Stack Web-Developer and Programmer</h2>
 
