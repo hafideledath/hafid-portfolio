@@ -171,6 +171,7 @@ main h2 {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    padding-bottom: 3px;
 }
 
 .testimonial p {

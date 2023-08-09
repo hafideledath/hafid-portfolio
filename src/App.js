@@ -24,6 +24,11 @@ const testimonials = [
     content: "Hafid is a great team member, demonstrating a great skillset. Amongst which, his fullstack development skills are to be noted. He has played an essential role to the development of our ogranization, and is a key member of the team. He is able to accurately comprehend requests from us as non-developers, which, from experience is probably the hardest part. Understanding is something that is quintessential to a developer and hafid embodies this nature. As a Developer, Hafid also requires Critical Thinking skills, and time-management, which he has demonstrated in his time with us. He is able to develop a website that we thought would be quite challenging. He utilizes his skillset in an efficient manner allowing for highly intricate and systematically organized websites, which look highly professional. Furthermore, Hafid is able to develop not only the frontend, but also the backend of a complex website, which is very challenging for one person. I think very highly of Hafid and wish him the best in his years ahead."
   },
   {
+    name: "Mayankh Agarwal",
+    description: 'F1 Debates developer, competitive programmer',
+    content: "I have spent time and worked with Hafid on multiple occasions, including hackathons and projects. Throughout the time I've known him, he's been generous, helpful, and a fantastic friend. His dedication, discipline, and knowledge show in every task he undertakes. Hafid has a very strong work ethic and I wish him success and luck for the future."
+  },
+  {
     name: "Fadil Eledath",
     description: "Electrical Engineer, DMC, Inc.",
     content: "I told Hafid I made a fancy portfolio for myself in React and of course that meant that he had to immediately make one that was better in every single way. He just couldn’t let me win this one little thing."
