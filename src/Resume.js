@@ -14,7 +14,7 @@ function Resume() {
         <h3>Experienced with front-end frameworks</h3>
         <p>Experienced with front-end frameworks such as React Native, Bootstrap and Tailwind.css</p>
 
-        <h3>Experienced with back-end frameworks and BaaS tools</h3>
+        <h3>Experienced with back-end frameworks</h3>
         <p>Experienced with Flask and Streamlit, back-end Python frameworks for production and prototyping, respectively</p>
 
         <h3>Skilled with BaaS tools</h3>
