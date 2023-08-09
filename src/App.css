@@ -1,11 +1,11 @@
 .App {
-    position: relative;
     overflow: hidden;
     background-size: 100px 100px;
     background-image:
     linear-gradient(to right, #ffffff31 1px, transparent 1px),
     linear-gradient(to bottom, #ffffff31 1px, transparent 1px);
     background-position: 19px 23px;
+    background-color: #000;
 }
 
 .hero {
@@ -44,7 +44,7 @@ h1 {
     to {background-position-x: -200%;}
 }
 
-.gradient, .arrow {
+.gradient, .arrow, .Resume h2 {
     font-weight: bold;
     background: linear-gradient(
         to right,
