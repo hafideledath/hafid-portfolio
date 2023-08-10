@@ -135,11 +135,11 @@ main h2 {
     overflow-y: auto;
 }
 
-.testimonial h3, .testimonial p {
+.testimonial :is(h3, p) {
     width: 100% !important;
 }
 
-.testimonial h2, .testimonial h3 {
+.testimonial :is(h2, h3) {
     line-height: 1;
     margin: 0;
 }
