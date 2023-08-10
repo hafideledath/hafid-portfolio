@@ -65,41 +65,41 @@ function Resume() {
         <h3>Won the backend category of DI@TECH 2023</h3>
         <p>Won the backend category of DI@Tech 2023 by implementing the solution to a variety of problems with my team, under time pressure</p>
 
-        <h3>Created a website showcasing poetry from student around DIA</h3>
-        <p>Designed and created a website for <i>Speak Up, DIA</i> using React, showcasing student-written poetry</p>
+        <h3>Developed a website showcasing poetry from student around DIA</h3>
+        <p>Concieved, designed, developed and hosted a website for <i>Speak Up, DIA</i> using React, showcasing student-written poetry; set up analytics using Google Analytics</p>
 
-        <h3>Created three unique, themed portfolio pages</h3>
-        <p>Designed, developed and hosted three uniquely themed portfolio pages: one with the theme of puzzles, another with the theme of comic books, and finally one with the theme of Y2K</p>
+        <h3>Developed three unique, themed portfolio pages</h3>
+        <p>Concieved, designed, developed and hosted three uniquely themed portfolio pages: one with the theme of puzzles (with Flask and Bootstrap), another with the theme of comic books and one with the theme of Y2K (both with React)</p>
 
-        <h3>Created a full-stack website demonstrating the Dubai Metro</h3>
-        <p>Created a full-stack website, using Flask, demonstrating the capabilities of the Dubai Metro</p>
+        <h3>Developed a full-stack website demonstrating the Dubai Metro</h3>
+        <p>Concieved, designed, developed and hosted a full-stack website, using Flask, demonstrating the capabilities of the Dubai Metro</p>
 
-        <h3>Created a full-stack stock-market trading simulator</h3>
-        <p>Created a full-stack stock-market trading simulator using Flask, as part of Harvard's CS50x</p>
+        <h3>Developed a full-stack stock-market trading simulator</h3>
+        <p>Developed a full-stack stock-market trading simulator using Flask, as part of Harvard's CS50x</p>
 
-        <h3>Created ASCII UNO</h3>
-        <p>Created a terminal game in Python, simulating the card game UNO, with vibrant ASCII art representing cards</p>
+        <h3>Programmed ASCII UNO</h3>
+        <p>Concieved and programmed a Python-based terminal game in Python, simulating the card game UNO, with vibrant ASCII art representing cards. The game is played against a rudimentary AI and one version of the game involves GPT-3.5 turbo</p>
 
-        <h3>Created Hafidopoly</h3>
-        <p>Created a Monopoly-inspired game, with a twist: the game is played within an IDE, and changes in the game are reflected real-time on a .md file, with beautiful ASCII art</p>
+        <h3>Programmed Hafidopoly</h3>
+        <p>Concieved and programmed a Java-based Monopoly-inspired game, with a twist: the game is played locally within an IDE, and changes in the game are reflected real-time on a .md file, with beautifully styled ASCII art</p>
 
-        <h3>Created a dynamic, multi-purpose Discord bot</h3>
-        <p>Created a multi-purpose Discord bot using Node.js, which allows users to create their own commands, using a syntax I developed. It has a variety of functions, such as dynamic RESTful API data retrieval</p>
+        <h3>Programmed a dynamic, multi-purpose Discord bot</h3>
+        <p>Convieved and programmed a multi-purpose Discord bot using Node.js, which allows users to create their own commands, using a syntax I developed. It has a variety of functions, such as dynamic RESTful API data retrieval</p>
 
         <h3>Awarded excellent achievement for MYP Digital Design in years 9 and 10</h3>
         <p>Awarded excellent achievement for DD, for exceeding expectations in class</p>
 
-        <h3>Created an AI-powered celebrity simulator</h3>
-        <p>Created an AI-powered celebrity and historical figure simulator using OpenAI's GPT-3.5 turbo API</p>
+        <h3>Programmed an AI-powered celebrity simulator</h3>
+        <p>Programmed an AI-powered celebrity and historical figure simulator using OpenAI's GPT-3.5 turbo API</p>
 
-        <h3>Created 5 front-end projects as part of Daniel Walter Scott's course</h3>
-        <p>Created a variety of static websites as part of Daniel Walter Scott's web-design course</p>
+        <h3>Developed 5 front-end projects as part of Daniel Walter Scott's course</h3>
+        <p>Developed a variety of static websites as part of Daniel Walter Scott's web-design course</p>
 
-        <h3>Created a full-stack Yahoo Search clone</h3>
-        <p>Created a full-stack clone of the Yahoo Search engine using Flask, complete with real-time weather and time data, and search autocompletion</p>
+        <h3>Developed a full-stack Yahoo Search clone</h3>
+        <p>Developed a full-stack clone of the Yahoo Search engine using Flask, complete with real-time weather and time data, and search autocompletion</p>
 
-        <h3>Created a 2D educational RPG using Unity</h3>
-        <p>Created a 2D education RPG game, named 'Duck Debugger', using the Unity Game Engine and programmed in C#</p>
+        <h3>Developed a 2D educational RPG using Unity</h3>
+        <p>Concieved, designed and developed a 2D education RPG game, named 'Duck Debugger', using the Unity Game Engine and programmed in C#</p>
 
     </div>
   );
