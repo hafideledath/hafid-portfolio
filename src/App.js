@@ -8,7 +8,7 @@ import Image5 from './assets/scrollPhotos/diatechAlex.webp';
 import Image6 from './assets/scrollPhotos/nearAstronaut.webp';
 import Image7 from './assets/scrollPhotos/buildingLego.webp';
 
-import Resume from './Resume';
+import ResumeBlock from './Resume';
 
 import './App.css';
 
@@ -170,7 +170,7 @@ function App() {
           <p>{testimonials[testimonialIndex].content}</p>
         </div>
 
-        <Resume />
+        <ResumeBlock />
       </main>
 
       <footer><span className="material-symbols-outlined">copyright</span> 2023 Hafid Eledath | contact: dia210210@diaestudents.com</footer>
