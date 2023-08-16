@@ -59,8 +59,11 @@ function Resume() {
         <h3>Head of technology for DIAPAIR</h3>
         <p>Acting as the current head of technology for DIAPAIR, a social-networking platform. Designed and developed the platform from scratch, including the accounts infrastructure</p>
 
-        <h3>Mentor and co-leader for the STEM Explorers Club</h3>
-        <p>Currently acting as a mentor and co-leader for the STEM Explorers Club CCA</p>
+        <h3>Co-founder, co-president and mentor for Compsci@DIA</h3>
+        <p>Currently acting as the co-founder and co-president of Compsci@DIA, and a mentor whose job is to dynamically help experienced students and beginners alike with full-stack website development.</p>
+
+        <h3>Co-leader and mentor for the STEM Explorers Club</h3>
+        <p>Currently acting as a co-leader and mentor for the STEM Explorers Club CCA</p>
 
         <h3>Won the backend category of DI@BYTE 2023</h3>
         <p>Won the backend category of DI@BYTE 2023, by designing and implementing a financial tracking app with my partner, under time pressure</p>
