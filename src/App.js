@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 
-import Image1 from './assets/scrollPhotos/buildingRocket.webp';
-import Image2 from './assets/scrollPhotos/curtinGroupPhoto.webp';
-import Image3 from './assets/scrollPhotos/programming.webp';
+import Image1 from './assets/scrollPhotos/programming.webp';
+import Image2 from './assets/scrollPhotos/buildingRocket.webp';
+import Image3 from './assets/scrollPhotos/curtinGroupPhoto.webp';
 import Image4 from './assets/scrollPhotos/hackathonGroup.webp';
 import Image5 from './assets/scrollPhotos/diatechAlex.webp';
 import Image6 from './assets/scrollPhotos/nearAstronaut.webp';
@@ -83,7 +83,7 @@ function App() {
         <div id="carousel">
           <div className="carousel-item" style={{"--index": 1}}>
             <div className='caption'>
-              <p>cool_3d_print.jpg</p>
+              <p>busybusy.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
                 <span className="material-symbols-outlined">check_box_outline_blank</span>
@@ -94,7 +94,7 @@ function App() {
           </div>
           <div className="carousel-item" style={{"--index": 2}}>
             <div className='caption'>
-              <p>lets_do_this.jpg</p>
+              <p>cool-3d-print.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
                 <span className="material-symbols-outlined">check_box_outline_blank</span>
@@ -105,7 +105,7 @@ function App() {
           </div>
           <div className="carousel-item" style={{"--index": 3}}>
             <div className='caption'>
-              <p>busybusy.jpg</p>
+              <p>lets_win_this.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
                 <span className="material-symbols-outlined">check_box_outline_blank</span>
