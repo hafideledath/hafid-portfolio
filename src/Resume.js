@@ -69,22 +69,22 @@ function Resume() {
         <p>Won the backend category of DI@Tech 2023 by implementing the solution to a variety of problems with my team, under time pressure</p>
 
         <h3>Developed a website showcasing poetry from student around DIA</h3>
-        <p>Concieved, designed, developed and hosted a website for <i>Speak Up, DIA</i> using React, showcasing student-written poetry; set up analytics using Google Analytics</p>
+        <p>Conceived, designed, developed and hosted a website for <i>Speak Up, DIA</i> using React, showcasing student-written poetry; set up analytics using Google Analytics</p>
 
         <h3>Created three unique, themed portfolio pages</h3>
-        <p>Concieved, designed, developed and hosted three uniquely themed portfolio pages: one with the theme of puzzles (with Flask and Bootstrap), another with the theme of comic books and one with the theme of Y2K (both with React)</p>
+        <p>Conceived, designed, developed and hosted three uniquely themed portfolio pages: one with the theme of puzzles (with Flask and Bootstrap), another with the theme of comic books and one with the theme of Y2K (both with React)</p>
 
         <h3>Developed a full-stack website demonstrating the Dubai Metro</h3>
-        <p>Concieved, designed, developed and hosted a full-stack website, using Flask, demonstrating the capabilities of the Dubai Metro</p>
+        <p>Conceived, designed, developed and hosted a full-stack website, using Flask, demonstrating the capabilities of the Dubai Metro</p>
 
         <h3>Programmed a full-stack stock-market trading simulator</h3>
         <p>Programmed a full-stack stock-market trading simulator using Flask, as part of Harvard's CS50x</p>
 
         <h3>Created ASCII UNO</h3>
-        <p>Concieved and programmed a Python-based terminal game in Python, simulating the card game UNO, with vibrant ASCII art representing cards. The game is played against a rudimentary AI and one version of the game involves GPT-3.5 turbo</p>
+        <p>Conceived and programmed a Python-based terminal game in Python, simulating the card game UNO, with vibrant ASCII art representing cards. The game is played against a rudimentary AI and one version of the game involves GPT-3.5 turbo</p>
 
         <h3>Programmed Hafidopoly</h3>
-        <p>Concieved and programmed a Java-based Monopoly-inspired game, with a twist: the game is played locally within an IDE, and changes in the game are reflected real-time on a .md file, with beautifully styled ASCII art</p>
+        <p>Conceived and programmed a Java-based Monopoly-inspired game, with a twist: the game is played locally within an IDE, and changes in the game are reflected real-time on a .md file, with beautifully styled ASCII art</p>
 
         <h3>Developed a dynamic, multi-purpose Discord bot</h3>
         <p>Convieved and developed a multi-purpose Discord bot using Node.js, which allows users to create their own commands, using a syntax I developed. It has a variety of functions, such as dynamic RESTful API data retrieval</p>
@@ -102,7 +102,7 @@ function Resume() {
         <p>Programmed a full-stack clone of the Yahoo Search engine using Flask, complete with real-time weather and time data, and search autocompletion</p>
 
         <h3>Developed a 2D educational RPG using Unity</h3>
-        <p>Concieved, designed and developed a 2D education RPG game, named 'Duck Debugger', using the Unity Game Engine and programmed in C#</p>
+        <p>Conceived, designed and developed a 2D education RPG game, named 'Duck Debugger', using the Unity Game Engine and programmed in C#</p>
 
     </div>
   );

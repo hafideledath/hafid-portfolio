@@ -14,6 +14,13 @@ import './App.css';
 
 const testimonials = [
   {
+    name: "Mr. Ateeb Mohammed",
+    description: "Digital Design teacher",
+    content: `Hafid is a truly exceptional individual who stands out as an ace student in our program. Hafid is not only an outstanding coder and digital designer but also a remarkably respectful and diligent student.
+    His technical skills in coding and designing digital products are nothing short of impressive. Hafid consistently demonstrates a deep understanding of complex concepts and an ability to apply them creatively. His projects have consistently displayed innovation and a keen eye for design aesthetics.
+    Hafid has been an asset throughout the MYP Digital Design course, and I have no doubt that his future holds remarkable achievements in the world of coding and digital design.`
+  },
+  {
     name: "Ruhaan Malhotra",
     description: "Capture@DIA president, DIAPAIR co-founder, Ecoclub head of events",
     content: "Throughout my working relationship with Hafid, I have been consistently impressed by his attention to detail, sheer work ethic, and distinguished passion; all of which he brings to the table regardless of the magnitude of the task. As such, Hafid has demonstrated excellent time management and digital design tropes, cultivating his knowledge through applications, whilst educating the rest of the DIAPAIR team through insightful anecdotes. I truly recommend Hafid as a staple of any initiative, and do wish him the best in his future endeavours."
