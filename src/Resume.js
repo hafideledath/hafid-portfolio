@@ -74,6 +74,9 @@ function Resume() {
         <h3>Created three unique, themed portfolio pages</h3>
         <p>Conceived, designed, developed and hosted three uniquely themed portfolio pages: one with the theme of puzzles (with Flask and Bootstrap), another with the theme of comic books and one with the theme of Y2K (both with React)</p>
 
+        <h3>Created a WordPress blog to write about Compsci and English related content</h3>
+        <p>Created a WordPress blog to act as a platform to write about topics I'm passionate about, especially Compsci and English</p>
+
         <h3>Developed a full-stack website demonstrating the Dubai Metro</h3>
         <p>Conceived, designed, developed and hosted a full-stack website, using Flask, demonstrating the capabilities of the Dubai Metro</p>
 
