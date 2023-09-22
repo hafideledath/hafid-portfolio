@@ -59,6 +59,15 @@ function Resume() {
         <h3>Head of technology for DIAPAIR</h3>
         <p>Acting as the current head of technology for DIAPAIR, a social-networking platform. Designed and developed the platform from scratch, including the accounts infrastructure</p>
 
+        <h3>Head of technology for Mathletes</h3>
+        <p>Acting as the current head of technology for Mathletes, which involves working with the deputy head to design and create a relevant website</p>
+
+        <h3>Website developer for DI@Tech</h3>
+        <p>Currently in the PR department of DI@Tech; chiefly responsible for the creation of the DI@Tech website</p>
+
+        <h3>Head of technology for the Crochet Club</h3>
+        <p>Currently the head of technology for Crochet Club DIA, responsible for working with the deputy head to create a relevant website</p>
+
         <h3>Co-leader and mentor for the STEM Explorers Club</h3>
         <p>Currently acting as a co-leader and mentor for the STEM Explorers Club CCA</p>
 
