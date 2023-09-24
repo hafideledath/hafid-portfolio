@@ -68,6 +68,9 @@ function Resume() {
         <h3>Head of teaching for CodeCrafters</h3>
         <p>Acting as the current head of teaching for the CodeCrafters CCA</p>
 
+        <h3>Head of events for the AI Club</h3>
+        <p>Acting as the current head of events for DIA's AI Club</p>
+
         <h3>Head of technology for the Crochet Club</h3>
         <p>Currently the head of technology for Crochet Club DIA, responsible for working with the deputy head to create a relevant website</p>
 
