@@ -77,6 +77,9 @@ function Resume() {
         <h3>Co-leader and mentor for the STEM Explorers Club</h3>
         <p>Currently acting as a co-leader and mentor for the STEM Explorers Club CCA</p>
 
+        <h3>Got into the global round for the Uber Global Hackathon</h3>
+        <p>Participated in the team Code Crusaders, which got into the global round of the Uber Global Hackathon</p>
+
         <h3>Won the backend category of DI@BYTE 2023</h3>
         <p>Won the backend category of DI@BYTE 2023, by designing and implementing a financial tracking app with my partner, under time pressure</p>
 
