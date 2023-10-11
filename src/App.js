@@ -3,8 +3,8 @@ import { useEffect, useState } from 'react';
 import Image1 from './assets/scrollPhotos/programming.webp';
 import Image2 from './assets/scrollPhotos/buildingRocket.webp';
 import Image3 from './assets/scrollPhotos/curtinGroupPhoto.webp';
-import Image4 from './assets/scrollPhotos/hackathonGroup.webp';
-import Image5 from './assets/scrollPhotos/diatechAlex.webp';
+import Image4 from './assets/scrollPhotos/diatechAlex.webp';
+import Image5 from './assets/scrollPhotos/mBot.webp'
 import Image6 from './assets/scrollPhotos/nearAstronaut.webp';
 import Image7 from './assets/scrollPhotos/buildingLego.webp';
 
@@ -123,7 +123,7 @@ function App() {
           </div>
           <div className="carousel-item" style={{"--index": 4}}>
             <div className='caption'>
-              <p>hackathon_group.jpg</p>
+              <p>won_diatechbackend_YAY.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
                 <span className="material-symbols-outlined">check_box_outline_blank</span>
@@ -134,7 +134,7 @@ function App() {
           </div>
           <div className="carousel-item" style={{"--index": 5}}>
             <div className='caption'>
-              <p>won_diatechbackend_YAY.jpg</p>
+              <p>robotics_workshop.jpg</p>
               <div className="symbols-wrapper">
                 <span className="material-symbols-outlined">remove</span>
                 <span className="material-symbols-outlined">check_box_outline_blank</span>
