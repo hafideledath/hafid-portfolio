@@ -86,8 +86,11 @@ function Resume() {
         <h3>Developed a website showcasing poetry from student around DIA</h3>
         <p>Conceived, designed, developed and hosted a website for <i>Speak Up, DIA</i> using React, showcasing student-written poetry; set up analytics using Google Analytics</p>
 
-        <h3>Created three unique, themed portfolio pages</h3>
-        <p>Conceived, designed, developed and hosted three uniquely themed portfolio pages: one with the theme of puzzles (with Flask and Bootstrap), another with the theme of comic books and one with the theme of Y2K (both with React)</p>
+        <h3>Created three unique, themed developer portfolio pages</h3>
+        <p>Conceived, designed, developed and hosted three uniquely themed portfolio pages: one with the theme of puzzles (with Flask and Bootstrap), another with the theme of comic books and one with the theme of Y2K (both with React).</p>
+
+        <h3>Created a unique online resume for my literary skills</h3>
+        <p>Created a unique <a href="https://literature.hafideledath.com">literary resume</a> to stand out in terms of literary abilities.</p>
 
         <h3>Created a WordPress blog to write about Compsci and English related content</h3>
         <p>Created a <a href="https://hafideledath.wordpress.com">WordPress blog</a> to act as a platform to write about topics I'm passionate about, especially Compsci and English</p>
