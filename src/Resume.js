@@ -74,7 +74,7 @@ function Resume() {
         <h3>Head of technology for the Crochet Club</h3>
         <p>Currently the head of technology for Crochet Club DIA, responsible for working with the deputy head to create a relevant website</p>
 
-        <h3>Got into the global round for the Uber Global Hackathon</h3>
+        <h3>Got into the global round of the Uber Global Hackathon</h3>
         <p>Participated in the team Code Crusaders, which got into the global round of the Uber Global Hackathon</p>
 
         <h3>Won the backend category of DI@BYTE 2023</h3>
