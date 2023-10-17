@@ -65,6 +65,9 @@ function Resume() {
         <h3>Head of technology for Mathletes</h3>
         <p>Acting as the current head of technology for Mathletes, which involves working with the deputy head to design and create a relevant website</p>
 
+        <h3>Head of technology for Legal Horizons</h3>
+        <p>Acting as the current head of technology for Legal Horizons, which involves creating a relevant website.</p>
+
         <h3>Head of teaching for CodeCrafters</h3>
         <p>Acting as the current head of teaching for the CodeCrafters CCA</p>
 
