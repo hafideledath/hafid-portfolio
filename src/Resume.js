@@ -78,7 +78,7 @@ function Resume() {
         <p>Currently the head of technology for Crochet Club DIA, responsible for working with the deputy head to create a relevant website</p>
 
         <h3>Got into the global round of the Uber Global Hackathon</h3>
-        <p>Participated in the team Code Crusaders, which got into the global round of the Uber Global Hackathon</p>
+        <p>Participated in the team Code Crusaders, which got into the global round of the Uber Global Hackathon– placing top 3.8% of all 2500 competitors.</p>
 
         <h3>Won the backend category of DI@BYTE 2023</h3>
         <p>Won the backend category of DI@BYTE 2023, by designing and implementing a financial tracking app with my partner, under time pressure</p>
