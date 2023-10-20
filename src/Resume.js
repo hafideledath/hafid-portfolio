@@ -59,8 +59,8 @@ function Resume() {
         <h3>Head of technology for DIAPAIR</h3>
         <p>Acting as the current head of technology for DIAPAIR, a social-networking platform. Designed and developed the platform from scratch, including the accounts infrastructure</p>
 
-        <h3>Website developer for DI@Tech</h3>
-        <p>Currently in the PR department of DI@Tech; chiefly responsible for the creation of the DI@Tech website</p>
+        <h3>Website developer for DI@TECH</h3>
+        <p>Currently in the PR department of DI@TECH; chiefly responsible for the creation of the DI@TECH website</p>
 
         <h3>Head of technology for Mathletes</h3>
         <p>Acting as the current head of technology for Mathletes, which involves working with the deputy head to design and create a relevant website</p>
@@ -84,7 +84,7 @@ function Resume() {
         <p>Won the backend category of DI@BYTE 2023, by designing and implementing a financial tracking app with my partner, under time pressure</p>
 
         <h3>Won the backend category of DI@TECH 2023</h3>
-        <p>Won the backend category of DI@Tech 2023 by implementing the solution to a variety of problems with my team, under time pressure</p>
+        <p>Won the backend category of DI@TECH 2023 by implementing the solution to a variety of problems with my team, under time pressure</p>
 
         <h3>Developed a website showcasing poetry from student around DIA</h3>
         <p>Conceived, designed, developed and hosted a website for <i>Speak Up, DIA</i> using React, showcasing student-written poetry; set up analytics using Google Analytics</p>

@@ -21,19 +21,24 @@ const testimonials = [
     Hafid has been an asset throughout the MYP Digital Design course, and I have no doubt that his future holds remarkable achievements in the world of coding and digital design.`
   },
   {
+    name: "Rishabh Mittal",
+    description: "DIAMUN deputy head of tech, Going Green Dubai founder",
+    content: "Hafid is an intelligent and highly capable peer, with exceptional teamwork and problem-solving skills. His unique website development toolkit brings an innovative edge to our projects. Working alongside Hafid is not only enjoyable but also remarkably productive. His valuable insights and skills consistently elevate the quality of our work. One of my personal favorite projects that Hafid has worked on, is the DI@TECH website which has a creative, minimalistic and futuristic look which displays his capabilities as a well-rounded developer."
+  },
+  {
+    name: "Mayankh Agarwal",
+    description: 'F1 Debates developer, competitive programmer',
+    content: "I have spent time and worked with Hafid on multiple occasions, including hackathons and projects. Throughout the time I've known him, he's been generous, helpful, and a fantastic friend. His dedication, discipline, and knowledge show in every task he undertakes. Hafid has a very strong work ethic and I wish him success and luck for the future."
+  },
+  {
     name: "Ruhaan Malhotra",
-    description: "Capture@DIA president, DIAPAIR co-founder, Ecoclub head of events",
+    description: "Capture@DIA president, DIAPAIR co-founder, Eco Club head of events",
     content: "Throughout my working relationship with Hafid, I have been consistently impressed by his attention to detail, sheer work ethic, and distinguished passion; all of which he brings to the table regardless of the magnitude of the task. As such, Hafid has demonstrated excellent time management and digital design tropes, cultivating his knowledge through applications, whilst educating the rest of the DIAPAIR team through insightful anecdotes. I truly recommend Hafid as a staple of any initiative, and do wish him the best in his future endeavours."
   },
   {
     name: "Atharva Khule",
     description: "DIAPAIR co-founder",
     content: "Hafid is a great team member, demonstrating a great skillset. Amongst which, his fullstack development skills are to be noted. He has played an essential role to the development of our ogranization, and is a key member of the team. He is able to accurately comprehend requests from us as non-developers, which, from experience is probably the hardest part. Understanding is something that is quintessential to a developer and hafid embodies this nature. As a Developer, Hafid also requires Critical Thinking skills, and time-management, which he has demonstrated in his time with us. He is able to develop a website that we thought would be quite challenging. He utilizes his skillset in an efficient manner allowing for highly intricate and systematically organized websites, which look highly professional. Furthermore, Hafid is able to develop not only the frontend, but also the backend of a complex website, which is very challenging for one person. I think very highly of Hafid and wish him the best in his years ahead."
-  },
-  {
-    name: "Mayankh Agarwal",
-    description: 'F1 Debates developer, competitive programmer',
-    content: "I have spent time and worked with Hafid on multiple occasions, including hackathons and projects. Throughout the time I've known him, he's been generous, helpful, and a fantastic friend. His dedication, discipline, and knowledge show in every task he undertakes. Hafid has a very strong work ethic and I wish him success and luck for the future."
   },
   {
     name: "Fadil Eledath",
