@@ -24,7 +24,7 @@ function Resume() {
         <p>Skilled with Figma, Adobe XD and Canva</p>
 
         <h3>Experience with using IDEs efficiently</h3>
-        <p>Experience with offline and/or locally executed coding environments such as VS Code, Jupyter Notebook, and the Colaboratory. Experienced with cloud-based IDEs for collaboration such as GitHub Codespaces and Replit. Experiences with WYSIWYG editors such as Codux and Wix for quick prototyping.</p>
+        <p>Experience with offline and/or locally executed coding environments such as VS Code, Jupyter Notebook, and the Colaboratory. Experienced with cloud-based IDEs for collaboration such as GitHub Codespaces and Replit. Experienced with WYSIWYG editors such as Codux and Wix for quick prototyping.</p>
 
         <h3>Experienced with creating and hosting full-stack websites</h3>
         <p>Experienced with site-hosting services, such as GitHub pages, Python Anywhere, and Netlify. Experienced with finding and purchasing domains.</p>
@@ -47,10 +47,10 @@ function Resume() {
         <h3>Took Daniel Walter Scott’s Responsive Web Design course</h3>
         <p>Completed Daniel Walter Scott's project-based course on Responsive web-design, via Udemy. This was the catalyst for my passion for web-design</p>
 
-        <h3>Took Shaun Pelling’s course on modern React web-development.</h3>
+        <h3>Took Shaun Pelling’s course on modern React web-development</h3>
         <p>Completed Shaun Pelling's course on modern React web-development, via YouTube. This helped with the creation of <i>Speak Up, DIA's</i> website</p>
 
-        <h3>Currently taking Andrej Karpathy’s course on neural networks and backpropagation.</h3>
+        <h3>Currently taking Andrej Karpathy’s course on neural networks and backpropagation</h3>
         <p>Currently taking a highly challenging but interesting course by Andrej Karpathy, on Artificial Intelligence and Neural Networks</p>
 
 
