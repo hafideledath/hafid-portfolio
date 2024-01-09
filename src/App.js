@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { WebsiteCarbonBadge } from 'react-websitecarbon-badge';
 
 import Image1 from './assets/scrollPhotos/programming.webp';
 import Image2 from './assets/scrollPhotos/buildingRocket.webp';
@@ -186,6 +187,7 @@ function App() {
       </main>
 
       <footer><span className="material-symbols-outlined">copyright</span> 2023 Hafid Eledath | contact: dia210210@diaestudents.com</footer>
+      <WebsiteCarbonBadge co2="0.23" percentage='75' dark />
     </div>
   );
 }
