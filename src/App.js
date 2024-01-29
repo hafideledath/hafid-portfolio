@@ -186,7 +186,7 @@ function App() {
         <ResumeBlock />
       </main>
 
-      <footer><span className="material-symbols-outlined">copyright</span> 2023 Hafid Eledath | contact: dia210210@diaestudents.com</footer>
+      <footer><span className="material-symbols-outlined">copyright</span> 2024 Hafid Eledath | contact: dia210210@diaestudents.com</footer>
       <WebsiteCarbonBadge co2="0.23" percentage='75' dark />
     </div>
   );
