@@ -131,6 +131,27 @@ function Resume() {
         <h3>Developed a 2D educational RPG using Unity</h3>
         <p>Conceived, designed and developed a 2D education RPG game, named 'Duck Debugger', using the Unity Game Engine and programmed in C#</p>
 
+
+        <h2>Projects</h2>
+
+        <h3>Portfolio website – hafideledath.com</h3>
+        <p>The website you're on right now</p>
+
+        <h3>DIAPAIR website – diapair.org</h3>
+        <p>A DIA social networking platform named DIAPAIR</p>
+
+        <h3>DI@TECH website – dia-tech.org</h3>
+        <p>The website for a DIA-organized hackathon named DI@TECH</p>
+
+        <h3>Speak up, DIA – poetry.hafideledath.com</h3>
+        <p>A website showcasing a book I've published, highlighting my interest in poetry</p>
+
+        <h3>DIA IMPACT – diaimpact.org</h3>
+        <p>A website for a poetry competition held at DIA</p>
+
+        <h3>Interactive article demo – tuberculosis.hafideledath.com</h3>
+        <p>An interactive article idea, intended to raise money for tuberculosis treatment</p>
+
     </div>
   );
 }
