@@ -113,25 +113,25 @@ function Resume() {
 
         <h2>Links / References</h2>
 
-        <h3>DIAPAIR website – diapair.org</h3>
+        <h3>DIAPAIR website – <a href="https://www.diapair.org">diapair.org</a></h3>
         <p>A DIA social networking platform named DIAPAIR</p>
 
-        <h3>DI@TECH website – dia-tech.org</h3>
+        <h3>DI@TECH website – <a href="https://www.dia-tech.org">dia-tech.org</a></h3>
         <p>The website for a DIA-organized hackathon named DI@TECH</p>
 
-        <h3>Historitron 6000 - https://tinyurl.com/historitron</h3>
+        <h3>Historitron 6000 – <a href="https://www.tinyurl.com/historitron">tinyurl.com/historitron</a></h3>
         <p>A web-based application that asks the user random history questions</p>
 
-        <h3>Speak up, DIA – poetry.hafideledath.com</h3>
+        <h3>Speak up, DIA – <a href="https://www.poetry.hafideledath.com">poetry.hafideledath.com</a></h3>
         <p>A website showcasing a book I've published, highlighting my interest in poetry</p>
 
-        <h3>DIA IMPACT – diaimpact.org</h3>
+        <h3>DIA IMPACT – <a href="https://www.diaimpact.org">diaimpact.org</a></h3>
         <p>A website for a poetry competition held at DIA</p>
 
-        <h3>Interactive article demo – tuberculosis.hafideledath.com</h3>
+        <h3>Interactive article demo – <a href="https://www.tuberculosis.hafideledath.com">tuberculosis.hafideledath.com</a></h3>
         <p>An interactive article idea, intended to raise money for tuberculosis treatment</p>
 
-        <h3>Duck Debugger – https://hafideledath.itch.io/duck-debugger</h3>
+        <h3>Duck Debugger – <a href="https://www.hafideledath.itch.io/duck-debugger">hafideledath.itch.io/duck-debugger</a></h3>
         <p>An educational RPG game that teaches players to program</p>
 
     </div>
