@@ -33,7 +33,7 @@ function Resume() {
         <h2>Education</h2>
 
         <h3>Taken the IB MYP Digital Design Course</h3>
-        <p>Has taken the IB MYP Digital Design course for the past 3 years, with a 3.9/4.0 GPA and three excellent achievement awards.</p>
+        <p>Has taken the IB MYP Digital Design course for the 3 years, with a 3.9/4.0 GPA and three excellent achievement awards.</p>
 
         <h3>Took Harvard’s CS50x</h3>
         <p>Completed Harvard's online project-based Compsci course via EDx, with passing grades</p>

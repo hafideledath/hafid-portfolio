@@ -173,7 +173,7 @@ function App() {
           </div>
         </div>
 
-        <h2>Hey, my name's Hafid. And for the past <span className="gradient">six years</span>, I've been in love with everything Compsci.</h2>
+        <h2>Hey, my name's Hafid. And for the past <span className="gradient">seven years</span>, I've been in love with everything Compsci.</h2>
 
         <div className="testimonial">
           <span className="material-symbols-outlined arrow" onClick={decrementTestimonial}>navigate_before</span>
