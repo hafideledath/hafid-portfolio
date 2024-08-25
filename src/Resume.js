@@ -131,7 +131,7 @@ function Resume() {
         <h3>Interactive article demo – <a href="https://www.tuberculosis.hafideledath.com">tuberculosis.hafideledath.com</a></h3>
         <p>An interactive article idea, intended to raise money for tuberculosis treatment</p>
 
-        <h3>Duck Debugger – <a href="https://www.hafideledath.itch.io/duck-debugger">hafideledath.itch.io/duck-debugger</a></h3>
+        <h3>Duck Debugger – <a href="https://hafideledath.itch.io/duck-debugger">hafideledath.itch.io/duck-debugger</a></h3>
         <p>An educational RPG game that teaches players to program</p>
 
     </div>
