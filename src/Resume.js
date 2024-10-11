@@ -59,8 +59,11 @@ function Resume() {
         <h3>Head of Technology for DIAPAIR</h3>
         <p>Designed and developed the platform from scratch, implementing full-stack architecture, using React, Firebase, and Socket.IO</p>
 
-        <h3>Website Developer for DI@TECH</h3>
+        <h3>Head of Technology for DI@TECH</h3>
         <p>Designed and developed the DI@TECH website, prioritizing aesthetics and brand identity, using React and EmailJS</p>
+
+        <h3>Head of Technology for DIAMUN</h3>
+        <p>Refurbished and currently maintaining the website for the Model UN organization, DIAMUN</p>
 
         <h3>Head of Technology for the Architecture Club</h3>
         <p>Developed a website for the Architecture Club using pure HTML, CSS, and JavaScript</p>
