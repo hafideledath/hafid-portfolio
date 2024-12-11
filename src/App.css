@@ -133,6 +133,12 @@ main h2 {
 .testimonial p {
     height: 300px;
     overflow-y: auto;
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer and Edge */
+}
+
+.testimonial p::-webkit-scrollbar {
+    display: none;  /* Chrome, Safari, and Opera */
 }
 
 .testimonial :is(h3, p) {
